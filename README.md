@@ -1,4 +1,3 @@
-Esto es una prueba para un taller de Python
 # Tarea 1
 Este repositorio contiene
 - Tarea 1
